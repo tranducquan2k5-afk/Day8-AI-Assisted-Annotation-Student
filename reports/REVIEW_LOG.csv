@@ -1,0 +1,353 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0099.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0099.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,"xe nhỏ ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0099.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe lớn (SUV/tải/van) ở sát mép phải, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe nhỏ ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe nhỏ ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe nhỏ ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0099.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe con ở làn bên trái, cự ly gần",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0107.jpg,"xe nhỏ ở làn giữa, tầm trung",edited,Mô hình khoanh lệch tâm thân xe; kéo chỉnh lại các cạnh box ôm sát thân xe và đèn theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,"xe nhỏ ở làn giữa, tầm trung",edited,Mô hình gộp hai xe nối đuôi nhau vào một box; thu hẹp kích thước box ôm đúng xe phía trước theo quy tắc hai xe sát nhau vẽ hai box riêng
+1,frame_0107.jpg,"box nhận diện sai/vệt đèn ở làn bên trái, tầm trung",deleted,Mô hình nhận diện sai đối tượng không phải xe; xóa box theo quy tắc chỉ gán nhãn phương tiện từ 4 bánh trở lên
+1,frame_0107.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn bên phải, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn bên phải, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,"xe con ở sát mép phải, cự ly gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0107.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0107.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0107.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0107.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",edited,Mô hình khoanh lệch tâm thân xe; kéo chỉnh lại các cạnh box ôm sát thân xe và đèn theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,"xe nhỏ ở làn giữa, cự ly gần",edited,Mô hình khoanh thiếu một phần thân xe; kéo mở rộng box bao trọn thân xe kể cả gương và đèn theo guideline
+1,frame_0182.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0182.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0182.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0182.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0182.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0182.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0182.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0182.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0182.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,"xe con ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,"xe con ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe con ở làn giữa, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0182.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"vệt sáng phản chiếu đèn trên mặt đường ở làn giữa, tầm trung",deleted,Mô hình nhận nhầm vệt sáng đèn phản chiếu trên mặt đường thành xe; xóa box theo quy tắc không gán nhãn ánh đèn trên mặt đường
+1,frame_0187.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,"xe con ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0187.jpg,"xe con ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe con ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0187.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, cự ly gần",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0227.jpg,"box nhận diện sai/vệt đèn ở làn bên trái, cự ly gần",deleted,Mô hình nhận diện sai đối tượng không phải xe; xóa box theo quy tắc chỉ gán nhãn phương tiện từ 4 bánh trở lên
+1,frame_0227.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe con ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0227.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,"xe con ở sát mép phải, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,"xe con ở sát mép phải, cự ly gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0227.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe nhỏ ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0227.jpg,"xe con ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe con ở sát mép phải, cự ly gần",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0270.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0270.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0270.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0270.jpg,"xe con ở sát mép phải, cự ly gần",added,Mô hình bỏ sót xe bị cắt ở mép ảnh; thêm box cho phần nhìn thấy nằm trong ảnh theo guideline
+1,frame_0270.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0270.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0270.jpg,"xe nhỏ ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,"xe con ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0270.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe con ở làn giữa, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe con ở sát mép phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0270.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn bên phải, cự ly gần",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0312.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0312.jpg,"xe con ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0312.jpg,"xe nhỏ ở làn bên phải, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,"xe lớn (SUV/tải/van) ở làn giữa, tầm trung",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0312.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0312.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0312.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0312.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0312.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe con ở sát mép phải, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe con ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0312.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"vệt sáng phản chiếu đèn trên mặt đường ở sát mép trái, tầm trung",deleted,Mô hình nhận nhầm vệt sáng đèn phản chiếu trên mặt đường thành xe; xóa box theo quy tắc không gán nhãn ánh đèn trên mặt đường
+1,frame_0326.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,"xe con ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,"xe nhỏ ở làn bên phải, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0326.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe nhỏ ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe nhỏ ở làn bên trái, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0326.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"box nhận diện sai/vệt đèn ở làn giữa, tầm trung",deleted,Mô hình nhận diện sai đối tượng không phải xe; xóa box theo quy tắc chỉ gán nhãn phương tiện từ 4 bánh trở lên
+1,frame_0331.jpg,"box trùng lặp trên xe ngược chiều ở làn bên trái, cự ly gần",deleted,Mô hình tạo hai box chồng lấn lên cùng một chiếc xe; xóa box thừa theo quy tắc loại bỏ box trùng lặp
+1,frame_0331.jpg,"box nhận diện sai/vệt đèn ở làn bên trái, tầm trung",deleted,Mô hình nhận diện sai đối tượng không phải xe; xóa box theo quy tắc chỉ gán nhãn phương tiện từ 4 bánh trở lên
+1,frame_0331.jpg,"box lỗi/quầng sáng đèn xe ở sát mép phải, góc dưới cự ly rất gần",deleted,Mô hình khoanh sai quầng sáng đèn xe ở cự ly gần; xóa box thừa theo quy tắc không gán nhãn vệt sáng đèn
+1,frame_0331.jpg,"box trùng lặp trên xe ngược chiều ở làn bên trái, cự ly gần",deleted,Mô hình tạo hai box chồng lấn lên cùng một chiếc xe; xóa box thừa theo quy tắc loại bỏ box trùng lặp
+1,frame_0331.jpg,"box nhận diện sai/vệt đèn ở làn bên phải, tầm trung",deleted,Mô hình nhận diện sai đối tượng không phải xe; xóa box theo quy tắc chỉ gán nhãn phương tiện từ 4 bánh trở lên
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe lớn (SUV/tải/van) ở sát mép phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0331.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0331.jpg,"xe con ở làn bên phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0331.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,"xe con ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,"xe lớn (SUV/tải/van) ở làn giữa, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe lớn (SUV/tải/van) ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe con ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe nhỏ ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0331.jpg,"xe con ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"box lỗi/quầng sáng đèn xe ở sát mép phải, góc dưới cự ly rất gần",deleted,Mô hình khoanh sai quầng sáng đèn xe ở cự ly gần; xóa box thừa theo quy tắc không gán nhãn vệt sáng đèn
+1,frame_0369.jpg,"xe lớn (SUV/tải/van) ở sát mép phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0369.jpg,"xe con ở làn bên phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0369.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe con ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe con ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe nhỏ ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0369.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe nhỏ ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0369.jpg,"xe nhỏ ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",edited,Mô hình vẽ box quá dài bao cả vệt sáng đèn pha trên mặt đường; kéo thu gọn chiều cao box ôm sát thân xe theo guideline
+1,frame_0380.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0380.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,"xe con ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,"xe nhỏ ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn giữa, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0380.jpg,"xe nhỏ ở làn bên trái, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0380.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở sát mép phải, cự ly gần",edited,Mô hình khoanh thiếu một phần thân xe; kéo mở rộng box bao trọn thân xe kể cả gương và đèn theo guideline
+1,frame_0392.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, tầm trung",edited,Mô hình khoanh thiếu một phần thân xe; kéo mở rộng box bao trọn thân xe kể cả gương và đèn theo guideline
+1,frame_0392.jpg,"box nhận diện sai/vệt đèn ở làn giữa, tầm trung",deleted,Mô hình nhận diện sai đối tượng không phải xe; xóa box theo quy tắc chỉ gán nhãn phương tiện từ 4 bánh trở lên
+1,frame_0392.jpg,"xe nhỏ ở làn giữa, cự ly gần",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,"xe con ở làn giữa, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0392.jpg,"xe nhỏ ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe rất nhỏ phía xa ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe nhỏ ở sát mép trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe lớn (SUV/tải/van) ở làn giữa, tầm trung",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0392.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe rất nhỏ phía xa ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe nhỏ/tối màu ở phía xa; thêm box theo quy tắc xe chỉ thấy đèn vẫn đoán được viền thân xe
+1,frame_0392.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,"xe nhỏ ở làn bên trái, tầm trung",added,Mô hình bỏ sót xe đang di chuyển trên làn đường; bổ sung box chữ nhật ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,"xe lớn (SUV/tải/van) ở làn bên trái, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0392.jpg,"xe lớn (SUV/tải/van) ở làn bên phải, góc dưới cự ly rất gần",added,Mô hình bỏ sót xe cự ly gần; thêm box bao sát thân xe và đèn xe theo quy tắc nhìn rõ thân xe
+1,frame_0392.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở làn giữa, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe nhỏ ở làn giữa, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở làn bên phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe nhỏ ở làn bên trái, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe nhỏ ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở sát mép phải, cự ly gần",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
+1,frame_0392.jpg,"xe con ở làn bên phải, tầm trung",accepted,Khung mô hình đề xuất đã ôm sát thân xe và đèn (IoU >= 0.85); đúng theo guideline nên giữ nguyên
